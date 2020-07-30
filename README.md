@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsharp07&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsharp07)](https://github.com/wsharp07/)
+
+[![linkedin badge](https://img.shields.io/badge/wsharp07-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wsharp07)
+[![twitter badge](https://img.shields.io/badge/@wsharp07-30302f?style=flat&logo=twitter)](https://twitter.com/wsharp07)
+
 <!--
 **wsharp07/wsharp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
