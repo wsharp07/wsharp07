@@ -14,10 +14,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wsharp07&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/>  <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/js.svg' width='30'/><img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/csharp.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/typescript.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/js.svg' width='30'/><img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/react.svg' width='33'/>
+ <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/postgresql.svg' width='33'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/microsoftsqlserver.svg' width='33'/>
  
  
 ## Current Works
