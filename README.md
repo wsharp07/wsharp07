@@ -1,23 +1,32 @@
-### Hi there 👋
+## Hey there 👋 Welcome to my profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsharp07&show_icons=true&theme=radical)
+[![Linkedin Badge](https://img.shields.io/badge/-wsharp07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wsharp07)](https://www.linkedin.com/in/wsharp07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsharp07)](https://github.com/wsharp07/)
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-[![linkedin badge](https://img.shields.io/badge/wsharp07-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/wsharp07)
-[![twitter badge](https://img.shields.io/badge/@wsharp07-30302f?style=flat&logo=twitter)](https://twitter.com/wsharp07)
+## 🖥️ Technologies I Love
+* Typescript
+* C#
+* dotnet core
+* NestJS
+* Next.js
 
-<!--
-**wsharp07/wsharp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wsharp07&layout=compact">
 
-Here are some ideas to get you started:
+## Programming Languages
+<img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/>  <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/js.svg' width='30'/><img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/react.svg' width='33'/>
+ 
+ 
+## Current Works
+ * 
+ 
+## Other Stuff
+  - :octocat: [My Resume](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=wsharp07&show_icons=true&hide=[%22issues%22])
+ 
+ 
