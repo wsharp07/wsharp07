@@ -11,8 +11,6 @@
 * NestJS
 * Next.js
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wsharp07&layout=compact">
-
 ## Programming Languages
 <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/csharp.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/typescript.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/python.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/go.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/html.svg' width='30'/>  <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/wsharp07/wsharp07/blob/main/images/sql.svg' width='30'/> 
  
