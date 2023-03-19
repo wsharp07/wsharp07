@@ -24,9 +24,9 @@
  * 
  
 ## Other Stuff
-  - :octocat: [My Resume](#)
+  - :octocat: [My Resume](https://github.com/wsharp07/wsharp07/blob/main/docs/sharp_william_resume.pdf)
 
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=wsharp07&show_icons=true&hide=[%22issues%22])
+![Williams's Github Stats](https://github-readme-stats.vercel.app/api?username=wsharp07&show_icons=true&hide=[%22issues%22])
  
  
